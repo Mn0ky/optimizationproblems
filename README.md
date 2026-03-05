@@ -57,7 +57,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [28](https://teorth.github.io/optimizationproblems/constants/28a.html) | Smallest dimension in which Borsuk’s conjecture fails | 4 | 64 |
 | [29](https://teorth.github.io/optimizationproblems/constants/29a.html) | Kissing number in dimension $5$ | 40 | 44 |
 | [30](https://teorth.github.io/optimizationproblems/constants/30a.html) | Stanley–Wilf limit for the permutation pattern $1324$ | 10.27 | 13.5 |
-| [31](https://teorth.github.io/optimizationproblems/constants/31a.html) | Chvátal–Sankoff constant for a binary alphabet | 0.792665992 | 0.826280 |
+| [31](https://teorth.github.io/optimizationproblems/constants/31a.html) | Chvátal–Sankoff constant for a binary alphabet | 0.79970 | 0.826280 |
 | [32](https://teorth.github.io/optimizationproblems/constants/32a.html) | Constant term of one-shot channel simulation | $-\log_2 \log_2 e \approx -0.53$ | $\sum_{k=1}^{\infty}2^{-k-1}k\log_{2}k-\log_{2}\log_{2}e \approx 0.76$ |
 | [33](https://teorth.github.io/optimizationproblems/constants/33a.html) | Ihara constant over $\mathbb{F}_2$ | 0.316999... | $\sqrt{2}-1 \approx 0.41421$ |
 | [34](https://teorth.github.io/optimizationproblems/constants/34a.html) | Falconer distance problem in $\mathbb{R}^2$ | 1 | $5/4$ |
@@ -114,11 +114,13 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 
 ## Recent progress
 
+- [51](https://teorth.github.io/optimizationproblems/constants/51a.html) **improved lower bound:** $C_{51} \geq 0.5850724$ by [Y. He and Q. Tang](https://arxiv.org/abs/2602.12217), 12 Feb 2026.
 - [11b](https://teorth.github.io/optimizationproblems/constants/11b.html) **solved:** $C_{11b} = 0.5$ by  [P. Durcik, P. Ivanisvili, J. Roos, X. Xie](https://arxiv.org/abs/2602.20462), 24 Feb 2026.
 - [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound:** $C_{3c} \geq 1.67471$ by T. Astor (paper coming soon).
-- [51](https://teorth.github.io/optimizationproblems/constants/51a.html) **improved lower bound:** $C_{51} \geq 0.5850724$ by [Y. He and Q. Tang](https://arxiv.org/abs/2602.12217), 12 Feb 2026.
 - [5b](https://teorth.github.io/optimizationproblems/constants/5b.html) **improved upper and lower bounds:** $\frac{9}{17} \leq C_{5b} \leq \frac{4}{7}$ by [J. Ma and Q. Tang](https://arxiv.org/abs/2602.23282), 26 Feb 2026.
 - [51](https://teorth.github.io/optimizationproblems/constants/51a.html) **improved lower bound:** $C_{51} \geq 0.5850788$ by [N. Sothanaphan](https://drive.google.com/file/d/1wZnzui_eeBE32HnkrnSB7YhfcTOiYolp/view), 1 Mar 2026.
+- [22](https://teorth.github.io/optimizationproblems/constants/22a.html) **improved upper bound:** $C_{22} \leq 10.02$ by [A. Klotz](https://arxiv.org/abs/2603.02416), 2 Mar 2026.
+- [31](https://teorth.github.io/optimizationproblems/constants/31a.html) **improved lower bound:** $C_{31} \geq 0.79970$ by [Archivara](https://archivara.org/paper/1a5c6a48-a106-40e4-a5f0-97833f3a25a7), 4 Mar 2026.
 
 
 ## Maintainers
